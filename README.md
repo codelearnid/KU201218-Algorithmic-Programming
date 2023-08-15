@@ -2,7 +2,7 @@
 
 Ini merupakan materi terkait Matakuliah Algoritma Programming
 Dosen Pengampu :
-*Arif Wicaksono Septyanto, S.Kom., M.Kom*
+*Arif Wicaksono Septyanto, S.Kom., M.Kom*<br>
 
 Referensi yang digunakan :
 - [	Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, 2021] - Introduction to algorithms
