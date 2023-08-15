@@ -83,7 +83,7 @@ Memiliki algoritma yang memenuhi ciri-ciri ini akan membantu dalam mengembangkan
 
 Penyajian algoritma adalah cara untuk mengkomunikasikan langkah-langkah yang diperlukan untuk menyelesaikan suatu tugas atau masalah secara jelas dan terstruktur. Ada beberapa cara untuk menyajikan algoritma, tergantung pada konteks dan audiens yang dituju. Berikut beberapa cara umum untuk menyajikan algoritma:
 
-### 2.1 Pseudocode (Pseudokode): 
+### 2.1 Pseudocode (Pseudokode)
 
 Pseudocode adalah suatu metode untuk merencanakan dan menggambarkan algoritma menggunakan bahasa yang mirip dengan kode pemrograman, tetapi tidak bergantung pada sintaks tertentu dari bahasa pemrograman tertentu. Pseudocode digunakan untuk memberikan panduan dan pemahaman yang lebih mudah dipahami mengenai langkah-langkah yang diperlukan dalam suatu algoritma.
 
@@ -247,10 +247,10 @@ Misalkan kita memiliki daftar angka [5, 10, 25, 8, 15] dan ingin mencari angka 8
 4. Pindah lagi, yaitu 8. Sama dengan 8. Elemen ditemukan.
 5. Jadi, algoritma pencarian linier telah berhasil menemukan angka 8 dalam daftar.
 
-### 2.4 Model Matematika: 
+### 2.4 Model Matematika
 Untuk masalah yang melibatkan komputasi matematika atau analisis numerik, seringkali algoritma dijelaskan dalam bentuk persamaan matematika atau model matematika.
 
-### 2.5 Contoh Kode Pemrograman: 
+### 2.5 Contoh Kode Pemrograman
 Jika tujuannya adalah untuk mengimplementasikan algoritma dalam suatu bahasa pemrograman, Anda dapat menyajikan algoritma dengan memberikan contoh kode pemrograman yang mendemonstrasikan langkah-langkah algoritma.
 
 ### 2.6 Diagram Blok
