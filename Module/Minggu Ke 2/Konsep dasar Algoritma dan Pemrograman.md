@@ -35,7 +35,7 @@ Algoritma Membuat Mie Instan
 10. Mie siap disantap. 
 
 <div align="center">
-  <img src="gambar/flowchar%20mie.webp" alt="Deskripsi Gambar" width="800" height="">
+  <img src="gambar/flowchar%20mie.webp" alt="Deskripsi Gambar" width="600" height="">
   <p><strong>Gambar 1. Flowchart Membuat Mie</strong></p>
 </div>
 
