@@ -99,7 +99,7 @@ Contoh pseudocode yang menggambarkan algoritma sederhana untuk mengecek apakah s
 
 Pseudocode:
 
-```sql{.line-numbers}
+```sql
 START
    INPUT bilangan
    IF bilangan MOD 2 EQUALS 0 THEN
@@ -111,7 +111,7 @@ END
 ```
 Implementasi dalam Python:
 
-```python{.line-numbers}
+```python
 bilangan = int(input("Masukkan sebuah bilangan: "))
 if bilangan % 2 == 0:
     print("Bilangan genap")
@@ -121,7 +121,7 @@ else:
 ```
 Implementasi dalam PHP:
 
-```php{.line-numbers}
+```php
 <?php
 $bilangan = intval(readline("Masukkan sebuah bilangan: "));
 if ($bilangan % 2 == 0) {
@@ -133,7 +133,7 @@ if ($bilangan % 2 == 0) {
 ```
 
 Implementasi dalam C++:
-```cpp{.line-numbers}
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -150,7 +150,7 @@ int main() {
 }
 ```
 Implementasi dalam Java:
-```java{.line-numbers}
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -167,7 +167,7 @@ public class Main {
 }
 ```
 Implementasi dalam JavaScript:
-```js{.line-numbers}
+```js
 let bilangan = parseInt(prompt("Masukkan sebuah bilangan: "));
 if (bilangan % 2 === 0) {
     console.log("Bilangan genap");
@@ -176,7 +176,7 @@ if (bilangan % 2 === 0) {
 }
 ```
 Implementasi dalam Go (Golang):
-```go{.line-numbers}
+```go
 package main
 
 import "fmt"
@@ -220,7 +220,6 @@ Pembahasan:
 - Jika sisa bagi sama dengan 0 berarti bilangan yang dimasukan adalah bilangan genap.
 - Jika sisa bagi tidak sama dengan 0 berarti bilangan yang dimasukan adalah bilangan ganjil.
 - Selesai.
-
 
 ### 2.3 Deskripsi Teks
 Algoritma juga dapat dijelaskan dalam bentuk teks yang rinci. Ini adalah cara sederhana untuk menulis langkah-langkah algoritma secara berurutan dengan kalimat-kalimat yang jelas dan deskriptif.
@@ -280,14 +279,14 @@ Contoh penggunaan struktur pemrograman dalam bahasa Python:
 
 Contoh Struktur Sekuensial:
 
-```python{.line-numbers}
+```python
 nama = input("Masukkan nama Anda: ")
 umur = int(input("Masukkan umur Anda: "))
 print("Halo,", nama, "! Anda berusia", umur, "tahun.")
 
 ```
 Contoh Struktur Percabangan:
-```python{.line-numbers}
+```python
 nilai = int(input("Masukkan nilai Anda: "))
 if nilai >= 70:
     print("Anda lulus.")
@@ -296,7 +295,7 @@ else:
 ```
 
 Contoh Struktur Perulangan:
-```python{.line-numbers}
+```python
 angka = 1
 while angka <= 5:
     print(angka)
@@ -304,11 +303,3 @@ while angka <= 5:
 ```
 Struktur pemrograman ini membantu mengatur alur logika program dan memungkinkan Anda untuk mengatasi berbagai skenario dalam pengembangan perangkat lunak.
 
-```js
-let bilangan = parseInt(prompt("Masukkan sebuah bilangan: "));
-if (bilangan % 2 === 0) {
-    console.log("Bilangan genap");
-} else {
-    console.log("Bilangan ganjil");
-}
-```
