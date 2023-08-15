@@ -304,7 +304,7 @@ while angka <= 5:
 ```
 Struktur pemrograman ini membantu mengatur alur logika program dan memungkinkan Anda untuk mengatasi berbagai skenario dalam pengembangan perangkat lunak.
 
-```js{.line-numbers start=1}
+```js
 let bilangan = parseInt(prompt("Masukkan sebuah bilangan: "));
 if (bilangan % 2 === 0) {
     console.log("Bilangan genap");
