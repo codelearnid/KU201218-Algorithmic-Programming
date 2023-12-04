@@ -10,3 +10,8 @@ Referensi yang digunakan :
 - [	Michael Green, 2023] - 	Zero to Py : A Comprehensive Guide to Learning the Python Programming Language
 - [w3schools](https://www.w3schools.com/python/default.asp)
 - [tutorialspoint](https://www.tutorialspoint.com/index.htm)
+
+
+
+
+NB : arin 2012
