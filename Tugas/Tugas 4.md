@@ -1,5 +1,7 @@
-## Kerjakan Soal Terkait Materi Minggu Ke 5 - 7
-Indikator penilaian : 
+## Kerjakan Soal Terkait Materi Minggu Ke 7
+
+Indikator penilaian :
+
 - Ketepatan menggunakan struktur data list dan dictionary
 - Ketepatan menggunakan operasi-operasi untuk memanipulasi string dengan Python
 
@@ -15,9 +17,11 @@ Ketentuan : *Dikerjakan dalam bentuk tulis tangan dan di scan kedalam pdf*
 4. Buatlah sebuah list yang berisi beberapa dictionary yang mewakili informasi tentang beberapa buku. Setiap dictionary harus memiliki kunci-kunci seperti "judul", "pengarang", "tahun_terbit", dan "penerbit". Kemudian, tampilkan informasi tentang buku-buku tersebut dalam list.
 5. Anda diminta untuk membuat sebuah nested dictionary yang mewakili data mahasiswa di sebuah universitas. Setiap mahasiswa dalam dictionary ini memiliki beberapa informasi:
    - Nama mahasiswa.
-  - Jurusan mahasiswa.
-  - Daftar mata kuliah yang diambil beserta nilai untuk setiap mata kuliah tersebut.
-Anda perlu membuat dictionary yang menggabungkan informasi-informasi di atas dan menampilkan daftar mata kuliah beserta nilai dari salah satu mahasiswa dalam dictionary tersebut.
+
+- Jurusan mahasiswa.
+- Daftar mata kuliah yang diambil beserta nilai untuk setiap mata kuliah tersebut.
+  Anda perlu membuat dictionary yang menggabungkan informasi-informasi di atas dan menampilkan daftar mata kuliah beserta nilai dari salah satu mahasiswa dalam dictionary tersebut.
+
 6. Anda diberikan sebuah dictionary yang berisi informasi penjualan produk di sebuah toko. Setiap produk dalam dictionary ini memiliki beberapa informasi:
    - "nama_produk": Nama produk tersebut.
    - "harga": Harga produk per unit.
